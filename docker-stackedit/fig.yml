@@ -1,0 +1,4 @@
+stackedit:
+  image: nazwadi/centos-stackedit
+  ports:
+    - "10030:3000"
